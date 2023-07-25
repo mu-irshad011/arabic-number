@@ -1,6 +1,6 @@
 {
   "name": "arabic-number-converter",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "description": "Convert english numbers to arabic easily",
   "main": "index.js",
   "scripts": {
