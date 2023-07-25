@@ -1,11 +1,8 @@
 {
   "name": "arabic-number-converter",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Convert english numbers to arabic easily",
   "main": "index.js",
-  "scripts": {
-    "start": "nodemon index.js"
-  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/mu-irshad011/arabic-number.git"
