@@ -22,8 +22,5 @@
   "bugs": {
     "url": "https://github.com/mu-irshad011/arabic-number/issues"
   },
-  "homepage": "https://github.com/mu-irshad011/arabic-number#readme",
-  "dependencies": {
-    "nodemon": "^3.0.1"
-  }
+  "homepage": "https://github.com/mu-irshad011/arabic-number#readme"
 }
