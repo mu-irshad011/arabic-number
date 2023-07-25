@@ -58,6 +58,6 @@ console.log(convertedNumber); // Output: '٩٨٧٦٥٤٣٢١٠'
 
 ## License
 
-This project is licensed under the [MIT License](https://github.com/mu-irshad011/arabic-number/blob/main/LICENSE).
+MIT © [https://github.com/mu-irshad011](https://github.com/mu-irshad011)
 
 Thank you for using the Arabic Number Converter! We hope this package helps simplify your number conversion needs. If you find it useful, please consider starring our GitHub repository to show your appreciation. Happy coding!
